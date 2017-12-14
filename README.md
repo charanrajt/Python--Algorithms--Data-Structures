@@ -1,4 +1,3 @@
-# Python for Algorithms, Data-Structures, and Interviews!
-
+# Python for Algorithms and Data-Structures
 
 
